@@ -1,6 +1,7 @@
 ## GLake: Optimizing GPU memory management & IO transmission
 [中文](docs/readme_cn.md)
 ## Latest News
+- [2024.10] We release LayerKV [arxiv](https://arxiv.org/abs/2410.00428), efficient CPU-GPU KV Cache management to decrease TTFT.
 - [2024.07] We release vTensor, our LLM serving and KV Cache management system using VMM technique.
 - [2024.05] GLake overview and recent update is presented on AICon 2024 (in Beijing, China, 2024-05-17) [here](https://github.com/intelligent-machine-learning/glake/blob/main/docs/%E8%9A%82%E8%9A%81-GLake%E6%98%BE%E5%AD%98%E4%B8%8E%E4%BC%A0%E8%BE%93%E4%BC%98%E5%8C%96-AIConf-V1.0.pdf)
 - [2024.05] The presentation slides in ASPLOS'24 can be found [here](https://docs.google.com/presentation/d/1ZM7OfvOMc5zZ2oIGJONhs_gFqsMLjTogNtD0I59TNfE/edit#slide=id.p1)
